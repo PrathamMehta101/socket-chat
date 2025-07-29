@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Optional: dependencies for specific package managers
+.pnpm-store/
+.yarn/
+.cache/
+
+# npm install logs & lockfiles (optional)
+package-lock.json
+yarn.lock
+
+# Coverage reports
+coverage/
+
+# Debugging
+*.local
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.tgz
+*.zip
+
+# MongoDB data dumps (if any)
+dump/
+
